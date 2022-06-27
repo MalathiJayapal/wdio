@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//span[text()=\"1\" and @class=\"shopping_cart_badge\"]"
+}

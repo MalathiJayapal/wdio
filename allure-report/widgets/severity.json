@@ -1,0 +1,101 @@
+[ {
+  "uid" : "99ab0ee481b0af65",
+  "name" : "CheckOut Complete",
+  "time" : {
+    "start" : 1656301293424,
+    "stop" : 1656301294554,
+    "duration" : 1130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "364cdaaab624f8a6",
+  "name" : "SecondPageCheckOut",
+  "time" : {
+    "start" : 1656301292040,
+    "stop" : 1656301293424,
+    "duration" : 1384
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ab12b2235896105",
+  "name" : "Invalid Credentials",
+  "time" : {
+    "start" : 1656301293668,
+    "stop" : 1656301297567,
+    "duration" : 3899
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6628cf41f809a9e6",
+  "name" : "Valid Credentials",
+  "time" : {
+    "start" : 1656301282828,
+    "stop" : 1656301293649,
+    "duration" : 10821
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9be0173e1be5796",
+  "name" : "FirstPageCheckOut",
+  "time" : {
+    "start" : 1656301289480,
+    "stop" : 1656301292040,
+    "duration" : 2560
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6972dbbec3df31cb",
+  "name" : "Add to Cart",
+  "time" : {
+    "start" : 1656301282281,
+    "stop" : 1656301288274,
+    "duration" : 5993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63222afcab173152",
+  "name" : "Empty Password",
+  "time" : {
+    "start" : 1656301299233,
+    "stop" : 1656301300443,
+    "duration" : 1210
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a4861c479358ebf",
+  "name" : "Empty Credentials",
+  "time" : {
+    "start" : 1656301297578,
+    "stop" : 1656301299226,
+    "duration" : 1648
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec998672cb24de7a",
+  "name" : "Cart Page",
+  "time" : {
+    "start" : 1656301288275,
+    "stop" : 1656301289480,
+    "duration" : 1205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8582ad1cdde57696",
+  "name" : "Empty Username",
+  "time" : {
+    "start" : 1656301300453,
+    "stop" : 1656301301898,
+    "duration" : 1445
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
